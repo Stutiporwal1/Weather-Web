@@ -1,9 +1,5 @@
-// --- Corrected Selectors ---
-// We target the <p> inside .temp
 const temperatureField = document.querySelector(".temp p"); 
-// This was correct
 const locationField = document.querySelector(".time_location p");
-// This now correctly targets the <span>
 const dateTimeField = document.querySelector(".time_location span");
 // This now correctly targets the one <p> in .condition
 const conditionField = document.querySelector(".condition p"); 
