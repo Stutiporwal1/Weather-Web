@@ -1,4 +1,4 @@
 # Weather-Web
 
-## Tech Stack
+
 
